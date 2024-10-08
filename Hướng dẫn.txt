@@ -1,0 +1,14 @@
+Quy trình tự train: 
+1. Chạy file data
+2. Chạy file train
+3. File keras là train xong
+
+muốn test (chỉ cần file keras và predict.py)
+-Chạy file predict.py
+(đổi ảnh thì đổi đường dẫn ở dòng 13)
+
+Link dataset:(Tự tải và giải nén để sử dụng)
+https://drive.google.com/drive/folders/1p7pc1BjzzfQMSs0Zz2gv8ZhtaHmxsUJL?usp=sharing
+
+
+link keras : https://drive.google.com/file/d/1j998tjRcxcr-q9So17sn12_nKiwNKVia/view?usp=sharing
